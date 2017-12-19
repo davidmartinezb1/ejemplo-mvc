@@ -1,0 +1,57 @@
+/* Imports */
+
+@import url(http://fonts.googleapis.com/css?family=Oswald:300);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+.has-error small {
+    color: red;
+    font-weight: normal;
+    margin-left: 5px;
+}
+
+#jumbotron-index {
+    margin-top: 50px;
+    background: #666;
+    color: #eee;
+}
+
+.container section#table {}
+
+.container section#gr-ciudad {}
+
+#id_cliente {
+    width: 50px;
+}
+
+#cc {
+    width: 108px;
+}
+
+#clsPais {
+    width: 88px;
+}
+
+#clsDpto {
+    width: 60px;
+}
+
+#clsCiudad {
+    width: 60px;
+}
+
+div#piechartPais {
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+}
+
+div#piechartDpto {
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+}
+
+#piechart {
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+}
